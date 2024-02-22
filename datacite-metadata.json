@@ -6,32 +6,33 @@
       "doi": [],
       "identifiers": [],
       "alternateIdentifiers": [],
-    "creators": [
-    { 
-      "creatorName": "Kadiwal, Aditya", 
-      "nameType": "Personal", 
-      "givenName": "Aditya", 
-      "familyName": "Kadiwal"
-      "nameIdentifiers": [
-        {
-          "nameIdentifier": []
-          "nameIdentifierScheme": []
-        }  
-      ],
-      "affiliation": []
-    }
-  ],
-  "titles": { 
+      "creators": [
+        { 
+        "creatorName": "Kadiwal, Aditya", 
+        "nameType": "Personal", 
+        "givenName": "Aditya", 
+        "familyName": "Kadiwal"
+        "nameIdentifiers": [
+          {
+            "nameIdentifier": []
+            "nameIdentifierScheme": []
+          }  
+        ],
+        "affiliation": []
+      }
+    ],
+    "titles": { 
     "lang": "en",
     "title": "Water Quality"}, 
 
-  "rightsList": [
-    {
+    "rightsList": [
+      {
       "lang": "en",
       "rights": "Creative Commons Zero v1.0 Universal",
-      "rightsUri":"https://creativecommons.org/publicdomain/zero/1.0/deed.en",
-      "schemeUri":"https://spdx.org/licenses/",
-      "rightsIdentifier":"cc0-1.0",
-      "rightsIdentifierScheme":"SPDX"}
-  ]
+      "rightsUri": "https://creativecommons.org/publicdomain/zero/1.0/deed.en",
+      "schemeUri": "https://spdx.org/licenses/",
+      "rightsIdentifier": "cc0-1.0",
+      "rightsIdentifierScheme": "SPDX"
+      }
+    ],
   
