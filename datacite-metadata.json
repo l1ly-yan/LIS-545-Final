@@ -7,24 +7,24 @@
       "identifiers": [],
       "alternateIdentifiers": [],
       "creators": [
-        { 
-          "creatorName": "Kadiwal, Aditya", 
-          "nameType": "Personal", 
-          "givenName": "Aditya", 
+        {
+          "creatorName": "Kadiwal, Aditya",
+          "nameType": "Personal",
+          "givenName": "Aditya",
           "familyName": "Kadiwal",
           "nameIdentifiers": [
             {
               "nameIdentifier": [],
               "nameIdentifierScheme": []
-            }  
+            }
           ],
           "affiliation": []
         }
       ],
-      "titles": { 
+      "titles": {
         "lang": "en",
         "title": "Water Quality"
-      }, 
+      },
       "rightsList": [
         {
           "lang": "en",
@@ -33,6 +33,50 @@
           "schemeUri": "https://spdx.org/licenses/",
           "rightsIdentifier": "cc0-1.0",
           "rightsIdentifierScheme": "SPDX"
+        }
+      ],
+      "publisher": {
+        "lang": "en",
+        "name": "Kaggle",
+        "schemeUri": "https://www.kaggle.com/"
+      },
+      "container": {},
+      "publicationYear": 2022,
+      "subjects": [
+        {
+          "subject": "Earth and Nature",
+          "valueUri": "https://www.kaggle.com/datasets?tags=7000-Earth+and+Nature",
+          "subjectScheme": "Kaggle Dataset Tags"
+        },
+        {
+          "subject": "Beginner",
+          "valueUri": "https://www.kaggle.com/datasets?tags=13102-Beginner",
+          "subjectScheme": "Kaggle Dataset Tags"
+        },
+        {
+          "subject": "Energy",
+          "valueUri": "https://www.kaggle.com/datasets?tags=12016-Energy",
+          "subjectScheme": "Kaggle Dataset Tags"
+        },
+        {
+          "subject": "Public Health",
+          "valueUri": "https://www.kaggle.com/datasets?tags=4309-Public+Health",
+          "subjectScheme": "Kaggle Dataset Tags"
+        },
+        {
+          "subject": "Environment",
+          "valueUri": "https://www.kaggle.com/datasets?tags=7302-Environment",
+          "subjectScheme": "Kaggle Dataset Tags"
+        },
+        {
+          "subject": "Binary Classification",
+          "valueUri": "https://www.kaggle.com/datasets?tags=14201-Binary+Classification",
+          "subjectScheme": "Kaggle Dataset Tags"
+        },
+        {
+          "subject": "Water Bodies",
+          "valueUri": "https://www.kaggle.com/datasets?tags=3003-Water+Bodies",
+          "subjectScheme": "Kaggle Dataset Tags"
         }
       ]
     }
