@@ -1,7 +1,14 @@
 {
-  "identifier"
-  "creators": [
-    { "creatorName": "Kadiwal, Aditya", 
+  "data": {
+    "id": [],
+    "type": "dois",
+    "attributes": {
+      "doi": [],
+      "identifiers": [],
+      "alternateIdentifiers": [],
+    "creators": [
+    { 
+      "creatorName": "Kadiwal, Aditya", 
       "nameType": "Personal", 
       "givenName": "Aditya", 
       "familyName": "Kadiwal"
@@ -17,4 +24,14 @@
   "titles": { 
     "lang": "en",
     "title": "Water Quality"}, 
+
+  "rightsList": [
+    {
+      "lang": "en",
+      "rights": "Creative Commons Zero v1.0 Universal",
+      "rightsUri":"https://creativecommons.org/publicdomain/zero/1.0/deed.en",
+      "schemeUri":"https://spdx.org/licenses/",
+      "rightsIdentifier":"cc0-1.0",
+      "rightsIdentifierScheme":"SPDX"}
+  ]
   
