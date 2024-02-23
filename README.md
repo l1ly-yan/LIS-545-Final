@@ -1,4 +1,4 @@
-# Yan-L-git-repo
+# Term-Project-First-Draft
 This readme file was generated on [2024-02-22] by [LILY YAN]
 
 This repository contains the following files and folders:
