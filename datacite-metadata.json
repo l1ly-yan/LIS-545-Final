@@ -25,16 +25,6 @@
         "lang": "en",
         "title": "Water Quality"
       },
-      "rightsList": [
-        {
-          "lang": "en",
-          "rights": "Creative Commons Zero v1.0 Universal",
-          "rightsUri": "https://creativecommons.org/publicdomain/zero/1.0/deed.en",
-          "schemeUri": "https://spdx.org/licenses/",
-          "rightsIdentifier": "cc0-1.0",
-          "rightsIdentifierScheme": "SPDX"
-        }
-      ],
       "publisher": {
         "lang": "en",
         "name": "Kaggle",
@@ -77,6 +67,54 @@
           "subject": "Water Bodies",
           "valueUri": "https://www.kaggle.com/datasets?tags=3003-Water+Bodies",
           "subjectScheme": "Kaggle Dataset Tags"
+        }
+      ],
+      "language": "en",
+      "types": {
+        "ris": "DATA",
+        "bibtex": "misc",
+        "citeproc": "dataset",
+        "schemaOrg": "Dataset",
+        "resourceType": "Synthetic Data",
+        "resourceTypeGeneral": "Dataset"
+      },
+      "relatedIdentifiers": [
+        {
+          "relationType": "IsCitedBy",
+          "relatedIdentifier": "10.3390/w14213359",
+          "resourceTypeGeneral": "JournalArticle",
+          "relatedIdentifierType": "DOI"
+        },
+        {
+          "relationType": "IsCitedBy",
+          "relatedIdentifier": "10.2991/aebmr.k.220405.184",
+          "resourceTypeGeneral": "JournalArticle",
+          "relatedIdentifierType": "DOI"
+        },
+        {
+          "relationType": "IsCitedBy",
+          "relatedIdentifier": "10.21121/eab.1252167",
+          "resourceTypeGeneral": "JournalArticle",
+          "relatedIdentifierType": "DOI"
+        }
+      ],
+      "relatedItems": [],
+      "sizes": [
+        "257 KB",
+        "525 KB"
+      ],
+      "formats": [
+        "application/json"
+      ],
+      "version": "1.0",
+      "rightsList": [
+        {
+          "lang": "en",
+          "rights": "Creative Commons Zero v1.0 Universal",
+          "rightsUri": "https://creativecommons.org/publicdomain/zero/1.0/deed.en",
+          "schemeUri": "https://spdx.org/licenses/",
+          "rightsIdentifier": "cc0-1.0",
+          "rightsIdentifierScheme": "SPDX"
         }
       ]
     }
