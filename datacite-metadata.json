@@ -1,11 +1,9 @@
 {
   "data": {
-    "id": [],
-    "type": "dois",
+    "identifier": "https://www.kaggle.com/datasets/adityakadiwal/water-potability",
+    "identifierType": "URL",
     "attributes": {
       "doi": [],
-      "identifiers": [],
-      "alternateIdentifiers": [],
       "creators": [
         {
           "creatorName": "Kadiwal, Aditya",
@@ -106,7 +104,6 @@
       "formats": [
         "application/json"
       ],
-      "version": "1.0",
       "rightsList": [
         {
           "lang": "en",
