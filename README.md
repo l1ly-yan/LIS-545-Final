@@ -1,5 +1,6 @@
 # Term-Project-First-Draft
 This readme file was generated on [2024-02-22] by [LILY YAN]
+Last updated [2024-03-04]
 
 This repository contains the following files and folders:
 
