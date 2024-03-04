@@ -21,3 +21,8 @@ This repository contains the following files and folders:
 To use the dataset:
 1. If you prefer working with individual files, download the `water_potability.csv` file.
 2. If you prefer working with the entire dataset in a compressed format, download the `archive.zip` folder and extract its contents.
+
+## Recommended Citation
+Kadiwal, Aditya. (2021). “Water Quality.” Kaggle. 
+  https://www.kaggle.com/datasets/adityakadiwal/water-potability.
+
