@@ -25,4 +25,3 @@ To use the dataset:
 ## Recommended Citation
 Kadiwal, Aditya. (2021). “Water Quality.” Kaggle. 
   https://www.kaggle.com/datasets/adityakadiwal/water-potability.
-
