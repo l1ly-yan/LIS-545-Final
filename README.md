@@ -6,15 +6,15 @@ This repository contains the following files and folders:
 
 ## Files
 
-1. **Yan-L-term-project1.pdf**: This file is a data and metadata profile of Aditya Kadiwal's "Water Potability" dataset.
+1. **Yan-L-term-project1.pdf**: This file is a data and metadata profile of Aditya Kadiwal's "Water Quality" dataset.
 2. **Yan-L-term-project2.pdf**: This file is a UC Irvine Machine Learning Repository repository profile. 
-3. **Yan-L-term-project3.pdf**: This file contains additional information and evaluation of Aditya Kadiwal's "Water Potability" dataset regarding citation, licensing, preservation, and access.
+3. **Yan-L-term-project3.pdf**: This file contains additional information and evaluation of Aditya Kadiwal's "Water Quality" dataset regarding citation, licensing, preservation, and access.
 4. **datacite-metadata.json**: This file contains metadata in alignment with DataCite standards, providing descriptive information about the dataset such as title, authors, and related identifiers. It adheres to the DataCite Metadata Schema, facilitating interoperability and discovery of the dataset in research data repositories and scholarly platforms.
 5. **water_potability.csv**: This file is the extracted .csv of Aditya Kadiwal's "Water Potability" dataset.
 
 ## Folders
 
-1. **archive.zip**: This folder is the compressed .zip of Aditya Kadiwal's "Water Potability" dataset. 
+1. **archive.zip**: This folder is the compressed .zip of Aditya Kadiwal's "Water Quality" dataset. 
 
 ## Usage
 
