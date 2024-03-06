@@ -1,4 +1,4 @@
-# Term-Project-First-Draft
+# LIS-545-Final
 This readme file was generated on [2024-02-22] by [LILY YAN]
 Last updated [2024-03-04].
 
